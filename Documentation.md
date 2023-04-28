@@ -9,6 +9,7 @@
 - Before running the Music Player, make sure that Python and Pygame are installed on your system. To install Pygame, open a terminal or command prompt and type:
 
 `pip install pygame`
+
 ## Usage:
 
 To use the Music Player, simply run the script in a Python environment. A window will appear with a "Select" button, which allows you to choose a music file to play. Once a file has been selected, you can use the "Play", "Pause", and "Stop" buttons to control the playback.
@@ -25,7 +26,7 @@ To stop the music, click on the "Stop" button. The music will stop playing and t
 
 The progress bar updates in real-time as the music is playing. The label above the progress bar shows the current time in minutes and seconds and the total time in minutes and seconds.
 
-##Classes and methods:
+## Classes and methods:
 
 - The MusicPlayer class contains the following methods:
 
